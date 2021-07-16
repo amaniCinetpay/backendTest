@@ -17,6 +17,6 @@ def count_letter(word) :
 
 
 #-----------------------Problème 3---------------------------------------
-# Etant donné que la bloucle "FOR" est appliquée une seule fois  dans le problème 2 sur un tableau 
-# de n dimensions, nous déduisons que la complexité de la  fonction ci-dessus est de n 
+# Etant donné que la bloucle "FOR" est appliquée une seule fois  dans les problèmes 1&2 sur un tableau 
+# de n dimensions, nous déduisons que la complexité des fonctions ci-dessus est de n 
 #------------------------------------------------------------------------
